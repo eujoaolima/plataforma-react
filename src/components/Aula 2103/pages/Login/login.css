@@ -1,0 +1,14 @@
+.btn-custom {
+    background-color: #31ac87;
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #26745c;
+    color: white;
+}
+
+.btn-google:hover {
+    background-color: blue;
+}
